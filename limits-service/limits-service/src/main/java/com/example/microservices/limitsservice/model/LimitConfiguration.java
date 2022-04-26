@@ -1,4 +1,4 @@
-package com.example.microservices.limitsservice;
+package com.example.microservices.limitsservice.model;
 
 /**
  * The Class LimitConfiguration.
